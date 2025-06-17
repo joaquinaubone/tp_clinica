@@ -25,7 +25,7 @@ Desarrollar un sistema de gestión para una **clínica médica** utilizando prog
 
 ## 👤 Información del Alumno
 
-- **Nombre y Apellido**: Diego Aubone  
+- **Nombre y Apellido**: Joaquin Aubone  
 - **Ciclo Lectivo**: 2025  
 - **Carrera**: Ingenieria Informatica  
 
